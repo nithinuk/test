@@ -1,0 +1,8 @@
+# IntelliJ
+out/
+.idea/
+
+# Eclipse
+.metadata
+bin/
+tmp/
